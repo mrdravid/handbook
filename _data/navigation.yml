@@ -19,6 +19,9 @@ primary:
       - text: Org chart
         url: org-chart/
         internal: true
+      - text: 2020 Strategy
+        url: https://docs.google.com/document/d/1uidmcUfdxOeCt23nJ4VI1M10HV3W44ImMPLgwbx1QJM/edit
+        internal: false
   - text: Getting started
     href: /#getting-started
     blurb: |
@@ -114,7 +117,7 @@ primary:
       - text: Mid year HRLinks steps
         url: mid-year-hrlinks-steps/
         internal: true
-     
+
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
