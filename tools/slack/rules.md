@@ -17,9 +17,8 @@ questions:
 Slack is required for all [TTS](https://www.gsa.gov/portal/category/25729) staff. Some things you'll want to remember, especially if you're new to Slack:
 
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
-- **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack and any audio or video transmitted using a Slack Call.
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [alternative options for sharing sensitive information]({{site.baseurl}}/sensitive-information/#tools).
-- **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don't say something on Slack that you wouldn't feel comfortable appearing on the news.
+- [**Assume everything you share will be made public**.](../records/)
 
 ## Channel names
 
